@@ -1,3 +1,3 @@
 Instructions for application start:
-npm install
+npm install,
 npm start
